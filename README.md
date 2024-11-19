@@ -23,7 +23,7 @@ The **30 Days of ML Challenge** is a month-long program to build foundational ma
    Follow the [Getting Started with Kaggle](https://www.kaggle.com/code/alexisbcook/getting-started-with-kaggle) notebook to familiarize yourself with the platform.  
 
 2. **Community Engagement**  
-   Join the [30 Days of ML Discord Community](https://discord.gg/f8g8bDq8Vv) and introduce yourself in the `#introductions` channel.  
+   Join the [30 Days of ML Discord Community](https://github.com/serverx-org/ml-challenge-2024/discussions/2) and introduce yourself in the `#introductions` channel.  
 
 3. **Understanding ML Models**  
    Read the tutorial: [How Models Work](https://www.kaggle.com/code/dansbecker/how-models-work) (Lesson 1, Intro to ML).  
