@@ -42,6 +42,13 @@ The **30 Days of ML Challenge** is a month-long program to build foundational ma
 3. [Read this tutorial](https://www.kaggle.com/code/dansbecker/model-validation) (from Lesson 4 of the Intro to ML course).  
 4. [Complete this exercise](https://www.kaggle.com/kernels/fork/1259097) (from Lesson 4 of the Intro to ML course).
 
+## Day 03 - (19 Nov 2024)
+
+1. [Read this tutorial](https://www.kaggle.com/code/dansbecker/underfitting-and-overfitting) (from Lesson 5 of the Intro to ML course).  
+2. [Complete this exercise](https://www.kaggle.com/kernels/fork/1259126) (from Lesson 5 of the Intro to ML course).  
+3. [Read this tutorial](https://www.kaggle.com/code/dansbecker/random-forests) (from Lesson 6 of the Intro to ML course).  
+4. [Complete this exercise](https://www.kaggle.com/kernels/fork/1259186) (from Lesson 6 of the Intro to ML course).
+
 ---
 
 ## Participation Guidelines
