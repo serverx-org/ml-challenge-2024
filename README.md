@@ -35,19 +35,24 @@ The **30 Days of ML Challenge** is a month-long program to build foundational ma
    Complete [this exercise](https://www.kaggle.com/kernels/fork/1258954) from Lesson 2.  
 
 
-## Day 2 - (18 Nov 2024)
+## Day 2 - (21 Nov 2024)
 
 1. [Read this tutorial](https://www.kaggle.com/code/dansbecker/your-first-machine-learning-model) (from Lesson 3 of the Intro to ML course).  
 2. [Complete this exercise](https://www.kaggle.com/kernels/fork/1404276) (from Lesson 3 of the Intro to ML course).  
 3. [Read this tutorial](https://www.kaggle.com/code/dansbecker/model-validation) (from Lesson 4 of the Intro to ML course).  
 4. [Complete this exercise](https://www.kaggle.com/kernels/fork/1259097) (from Lesson 4 of the Intro to ML course).
 
-## Day 03 - (19 Nov 2024)
+## Day 03 - (22 Nov 2024)
 
 1. [Read this tutorial](https://www.kaggle.com/code/dansbecker/underfitting-and-overfitting) (from Lesson 5 of the Intro to ML course).  
 2. [Complete this exercise](https://www.kaggle.com/kernels/fork/1259126) (from Lesson 5 of the Intro to ML course).  
 3. [Read this tutorial](https://www.kaggle.com/code/dansbecker/random-forests) (from Lesson 6 of the Intro to ML course).  
 4. [Complete this exercise](https://www.kaggle.com/kernels/fork/1259186) (from Lesson 6 of the Intro to ML course).
+
+## Day 04 - [23 Nov 2024]
+
+1. [Read this tutorial](https://www.kaggle.com/code/alexisbcook/machine-learning-competitions) (from Lesson 7 of the Intro to ML course).  
+2. [Complete this exercise](https://www.kaggle.com/kernels/fork/1259198) (from Lesson 7 of the Intro to ML course).
 
 ---
 
