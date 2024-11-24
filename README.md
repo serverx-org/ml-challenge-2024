@@ -60,6 +60,11 @@ The **30 Days of ML Challenge** is a month-long program to build foundational ma
 - [Introduction](https://www.kaggle.com/code/alexisbcook/introduction)  
 - [Missing Values](https://www.kaggle.com/code/alexisbcook/missing-values)  
 
+## Day 06 - [25 Nov 2024]
+
+- Follow Intermediate ML lessons, completing tutorials and exercises Part-1:  
+- [Categorical Variables](https://www.kaggle.com/code/alexisbcook/categorical-variables)  
+- [Pipelines](https://www.kaggle.com/code/alexisbcook/pipelines)  
 ---
 
 ## Participation Guidelines
