@@ -54,6 +54,12 @@ The **30 Days of ML Challenge** is a month-long program to build foundational ma
 1. [Read this tutorial](https://www.kaggle.com/code/alexisbcook/machine-learning-competitions) (from Lesson 7 of the Intro to ML course).  
 2. [Complete this exercise](https://www.kaggle.com/kernels/fork/1259198) (from Lesson 7 of the Intro to ML course).
 
+## Day 05 - [24 Nov 2024]
+
+- Follow Intermediate ML lessons, completing tutorials and exercises:  
+- [Introduction](https://www.kaggle.com/code/alexisbcook/introduction)  
+- [Missing Values](https://www.kaggle.com/code/alexisbcook/missing-values)  
+
 ---
 
 ## Participation Guidelines
